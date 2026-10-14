@@ -9,6 +9,6 @@ int main() {
     cout << "Print m: ";
     cin >> m;
 
-    cout << "Hello World!\n";
+    cout << n*m << " Hello World!\n";
     return 0;
 }

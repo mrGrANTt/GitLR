@@ -9,6 +9,7 @@ int main() {
     cout << "Print m: ";
     cin >> m;
 
-    cout << n/m << " Hello World!\n";
+    cout << n*m*100 << " <- This is n/m! Hello World!\n";
     return 0;
 }
+// Вариант задания с слиянием main и test через доп коммит 

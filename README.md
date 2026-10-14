@@ -5,3 +5,5 @@
 [9.typeA](https://github.com/mrGrANTt/GitLR/tree/9.typeA)- задание 9 тип а
 
 [9.typeB](https://github.com/mrGrANTt/GitLR/tree/9.typeB) - задание 9 тип b + задание 10
+
+[main](https://github.com/mrGrANTt/GitLR/tree/main), [client](https://github.com/mrGrANTt/GitLR/tree/client), [server](https://github.com/mrGrANTt/GitLR/tree/server) - соответствующие ветки из задания 11
